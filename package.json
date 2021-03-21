@@ -1,0 +1,14 @@
+{
+  "name": "wcatcommand",
+  "version": "1.0.0",
+  "description": " cat command for windows like that we use in Linux",
+  "main": "wcat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wcat": "wcat.js"
+  },
+  "author": "Abhay Kumar Singh",
+  "license": "ISC"
+}
