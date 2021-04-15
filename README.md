@@ -5,6 +5,7 @@ has not any type of cmd like cat command so we thought that lets built cat comma
 
 ## Read the documentation of cat command
 [cat-cmd-documentation](https://www.tecmint.com/13-basic-cat-command-examples-in-linux/#:~:text=The%20cat%20(short%20for%20%E2%80%9Cconcatenate,output%20in%20terminal%20or%20files)
+[Lets go to Quora](https://www.quora.com)
 
 Although there are 12 uses of cat cmd but in this project we have only implemented few uses that are:
 1. display content of singlefile in terminal.
