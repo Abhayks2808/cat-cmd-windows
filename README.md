@@ -4,7 +4,7 @@ This is mini nodejs project for building concept of javascript.The project is  m
 has not any type of cmd like cat command so we thought that lets built cat command cat command has many uses link to read all the uses of cat command is give below
 
 ## Read the documentation of cat command
-[cat cmd documentation](https://www.google.com)
+[cat cmd documentation](https://www.tecmint.com/13-basic-cat-command-examples-in-linux/)
 
 
 Although there are 12 uses of cat cmd but in this project we have only implemented few uses that are:
